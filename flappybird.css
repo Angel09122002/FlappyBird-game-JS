@@ -1,6 +1,12 @@
 body {
+  margin-top: 100px;
+  color: white;
+  background-color: black;
   font-family: "Courier New", Courier, monospace;
   text-align: center;
+}
+.title {
+  border: solid red;
 }
 
 #board {
